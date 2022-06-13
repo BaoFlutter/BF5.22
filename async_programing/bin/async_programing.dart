@@ -48,7 +48,9 @@ void readStream1({required Stream<int> numberStream})
 {
   numberStream.listen((number){
     print(number);
+
 });
+
 }
 
 // Cách 2 
