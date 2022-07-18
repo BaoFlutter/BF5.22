@@ -1,0 +1,404 @@
+{
+    "page": 1,
+    "results": [
+    {
+    "adult": false,
+    "backdrop_path": "/cinER0ESG0eJ49kXlExM0MEWGxW.jpg",
+    "genre_ids": [
+    28,
+    12,
+    14
+    ],
+    "id": 566525,
+    "original_language": "en",
+    "original_title": "Shang-Chi and the Legend of the Ten Rings",
+    "overview": "Phim \"Shang-Chi và Huyền Thoại Thập Luân\" của Marvel Studios có sự tham gia của Simu Liu  (Lưu Tư Mộ) trong vai Shang-Chi (Thượng Khí), người phải đối mặt với quá khứ ngỡ đã quên khi bị lôi kéo vào mạng lưới của tổ chức bí ẩn Thập Hoàn. Phim còn có sự tham gia của Lương Triều Vỹ trong vai Wenwu (Văn Vũ), Awkwafina trong vai Katy, bạn của Shang-Chi và Dương Tử Quỳnh trong vai Jiang Nan, cùng với Fala Chen (Trần Pháp Lạp), Meng'er Zhang (Trương Mộng Nhi), Florian Munteanu và Ronny Chieng (Tiền Tính Y).",
+    "popularity": 8300.401,
+    "poster_path": "/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+    "release_date": "2021-09-01",
+    "title": "Shang-Chi và Huyền Thoại Thập Luân",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 3282
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/dK12GIdhGP6NPGFssK2Fh265jyr.jpg",
+    "genre_ids": [
+    28,
+    35,
+    80,
+    53
+    ],
+    "id": 512195,
+    "original_language": "en",
+    "original_title": "Red Notice",
+    "overview": "Chuyên gia FBI đang tìm bắt kẻ trộm tranh bị truy nã gắt gao nhất thế giới thì trở thành cộng sự bất đắc dĩ của hắn để tóm tên tội phạm luôn đi trước họ một bước.",
+    "popularity": 7646.716,
+    "poster_path": "/wdE6ewaKZHr62bLqCn7A2DiGShm.jpg",
+    "release_date": "2021-11-04",
+    "title": "Lệnh Truy Nã Đỏ",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 1141
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/70nxSw3mFBsGmtkvcs91PbjerwD.jpg",
+    "genre_ids": [
+    878,
+    28,
+    12
+    ],
+    "id": 580489,
+    "original_language": "en",
+    "original_title": "Venom: Let There Be Carnage",
+    "overview": "Sau khi tìm thấy cơ thể vật chủ trong tay phóng viên điều tra Eddie Brock, người ngoài hành tinh symbiote phải đối mặt với kẻ thù mới, Carnage, bản ngã thay thế của kẻ giết người hàng loạt Cletus Kasady.",
+    "popularity": 4813.214,
+    "poster_path": "/489LD1LL2zQxFLbU6o5oslBhvwQ.jpg",
+    "release_date": "2021-09-30",
+    "title": "Venom: Đối Mặt Tử Thù",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 2028
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/u5Fp9GBy9W8fqkuGfLBuuoJf57Z.jpg",
+    "genre_ids": [
+    12,
+    28,
+    53
+    ],
+    "id": 370172,
+    "original_language": "en",
+    "original_title": "No Time to Die",
+    "overview": "Phần 25 của bộ phim điệp viên huyền thoại 007 sẽ tiếp nối câu chuyện về James Bond cùng những pha hành động táo bạo và hoành tráng hơn bao giờ hết. Sau sự kiện đầy ám ảnh trong Spectre, Bond lui về ở ẩn tại đất nước Jamaica, sống một cuộc đời cô độc nhưng bình lặng. Bỗng một người bạn cũ từ CIA xuất hiện, cầu xin anh giúp đỡ. Bond bất đắc dĩ phải tái xuất, nhưng không hề biết mình sẽ đối đầu với thế lực nào. Chi tiết đáng chú ý nhất là chiếc mặt nạ trắng vỡ nửa, đánh dấu sự xuất hiện của tên ác nhân kì quái bậc nhất trong cả series 007. Màn chạm trán giữa Bond và kẻ thù nguy hiểm này sẽ vén màn những bí ẩn còn để ngỏ và tiếp theo đó, có thể là một cuộc đối đầu “sinh tử”.",
+    "popularity": 4467.007,
+    "poster_path": "/6obsiTBb1D6Yc32q0BgAIFKOABu.jpg",
+    "release_date": "2021-09-29",
+    "title": "Điệp Viên 007: Không Phải Lúc Chết",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 1984
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/zBkHCpLmHjW2uVURs5uZkaVmgKR.jpg",
+    "genre_ids": [
+    16,
+    35,
+    10751
+    ],
+    "id": 585245,
+    "original_language": "en",
+    "original_title": "Clifford the Big Red Dog",
+    "overview": "",
+    "popularity": 3857.928,
+    "poster_path": "/tY5jylU5wWaqRs8fmwkJBNzoyXB.jpg",
+    "release_date": "2021-11-10",
+    "title": "Clifford the Big Red Dog",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 166
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/oE6bhqqVFyIECtBzqIuvh6JdaB5.jpg",
+    "genre_ids": [
+    878,
+    18,
+    12
+    ],
+    "id": 522402,
+    "original_language": "en",
+    "original_title": "Finch",
+    "overview": "Trên Trái đất hậu tận thế, một người máy, được chế tạo để bảo vệ cuộc sống của chú chó yêu quý của đấng sáng tạo đang hấp hối, tìm hiểu về cuộc sống, tình yêu, tình bạn và ý nghĩa của việc trở thành con người.",
+    "popularity": 3311.758,
+    "poster_path": "/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg",
+    "release_date": "2021-11-04",
+    "title": "Finch",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 1066
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/4gKxQIW91hOTELjY5lzjMbLoGxB.jpg",
+    "genre_ids": [
+    28,
+    53,
+    878
+    ],
+    "id": 763164,
+    "original_language": "en",
+    "original_title": "Apex",
+    "overview": "",
+    "popularity": 2325.571,
+    "poster_path": "/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg",
+    "release_date": "2021-11-12",
+    "title": "Apex",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 177
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/4EJSMQOM1bZPHvzqAQe87suBxdf.jpg",
+    "genre_ids": [
+    10752,
+    36,
+    18,
+    12
+    ],
+    "id": 885110,
+    "original_language": "en",
+    "original_title": "Amina",
+    "overview": "",
+    "popularity": 2501.667,
+    "poster_path": "/gII53HAH7UA1yx189vROMzWA5ib.jpg",
+    "release_date": "2021-11-04",
+    "title": "Amina",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 13
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/vIPIyTJqcgOKgKcExCvTDpLpTYW.jpg",
+    "genre_ids": [
+    28,
+    12,
+    878
+    ],
+    "id": 634649,
+    "original_language": "en",
+    "original_title": "Spider-Man: No Way Home",
+    "overview": "Peter Parker đã bị lộ mặt và không còn có thể tách biệt cuộc sống bình thường của mình với những yêu cầu cao của việc trở thành một Siêu anh hùng. Khi anh ta yêu cầu sự giúp đỡ từ Doctor Strange, mọi thứ càng trở nên nguy hiểm hơn, buộc anh ta phải khám phá ra ý nghĩa thực sự của việc trở thành Người Nhện.",
+    "popularity": 2137.099,
+    "poster_path": "/5pVJ9SuuO72IgN6i9kMwQwnhGHG.jpg",
+    "release_date": "2021-12-15",
+    "title": "Người Nhện: Không Còn Nhà",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/lyvszvJJqqI8aqBJ70XzdCNoK0y.jpg",
+    "genre_ids": [
+    28,
+    12,
+    878
+    ],
+    "id": 524434,
+    "original_language": "en",
+    "original_title": "Eternals",
+    "overview": "Chủng Tộc Bất Tử (The Eternals) là một nhóm gồm những người ngoài hành tinh cổ đại đã sống bí mật trên Trái đất trong hàng nghìn năm. Khi một bi kịch bất ngờ ập đến buộc họ phải thoát ra khỏi bóng tối, họ buộc phải đoàn tụ chống lại kẻ thù truyền kiếp nhất của nhân loại, Deviants.",
+    "popularity": 2123.924,
+    "poster_path": "/kk0BT6UsdWELULlJ2qu2UjNqOHq.jpg",
+    "release_date": "2021-11-03",
+    "title": "Chủng Tộc Bất Tử",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 1110
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/eeijXm3553xvuFbkPFkDG6CLCbQ.jpg",
+    "genre_ids": [
+    878,
+    12
+    ],
+    "id": 438631,
+    "original_language": "en",
+    "original_title": "Dune",
+    "overview": "Dune xoay quanh câu chuyện về Paul Atreides một chàng trai trẻ đầy tài năng và thông minh anh được sinh ra trong cuộc sống vô cùng tuyệt vời và vượt khỏi tầm hiểu biết của anh, không những thế anh còn phải du hành đến một hành tinh đầy nguy hiểm nhất trong vũ trụ để có thể bảo vệ an toàn cuộc sống trong tương lai của gia đình và người thân của anh. Nhưng những thế lực tàn ác đã trỗi dậy và gây xung đột về sự cung cấp tài nguyên cho sự tồn tại của hành tinh. Và chỉ có những người dũng cảm vượt qua được nỗi sợ hãi mới có thể giữ được mạng sống trên hành tinh này.",
+    "popularity": 1826.932,
+    "poster_path": "/yxNR9KCk0UdWDJJhl3pLUbBeSJW.jpg",
+    "release_date": "2021-09-15",
+    "title": "Dune: Hành Tinh Cát",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 4140
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/a8tH0jl37366bLVyPB08dncgqqd.jpg",
+    "genre_ids": [
+    10751,
+    35
+    ],
+    "id": 654974,
+    "original_language": "en",
+    "original_title": "Home Sweet Home Alone",
+    "overview": "Ở phiên bản Home Alone 2021, ngôi sao 12 tuổi Archie Yates sẽ là người kế nhiệm Macaulay Culkin để vào vai nam chính lầy lội. Diễn viên nhí người Anh này cũng đang là một trong những tài năng trẻ được đánh giá cao tại Hollywood, nhất là sau tác phẩm Jojo Rabbit đình đám của đạo diễn Thor Taika Waititi.\r Với cốt truyện quen thuộc, Home Sweet Home Alone vẫn sẽ tập trung vào kỳ nghỉ Giáng sinh đáng nhớ của cậu bé Kevin McCallister. Lần này, cậu nhóc tinh nghịch vô tình bị gia đình bỏ lại ngay trước chuyến du lịch đến Tokyo, Nhật Bản. Và y chang phần phim năm nào, Kevin lại một lần nữa đối mặt với lũ trộm \"vô liêm sỉ\" và cho ra đời vô vàn tình huống khó đỡ.",
+    "popularity": 1700.265,
+    "poster_path": "/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg",
+    "release_date": "2021-11-12",
+    "title": "Ở Nhà Một Mình",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 149
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/lV3UFPPxDIPelh46G9oySXN9Mcz.jpg",
+    "genre_ids": [
+    10749,
+    18
+    ],
+    "id": 744275,
+    "original_language": "en",
+    "original_title": "After We Fell",
+    "overview": "",
+    "popularity": 1805.085,
+    "poster_path": "/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg",
+    "release_date": "2021-09-01",
+    "title": "Từ Khi Chúng Ta Tan Vỡ",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 915
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/d0mpUFKzoPwF1KsdjHpkkaYSvKm.jpg",
+    "genre_ids": [
+    37
+    ],
+    "id": 618162,
+    "original_language": "en",
+    "original_title": "The Harder They Fall",
+    "overview": "Mang súng để trả thù, Nat Love đứng ngoài vòng pháp luật cùng với băng đảng của mình hạ gục kẻ thù Rufus Buck, một tên trùm tội phạm tàn nhẫn vừa mới ra tù.",
+    "popularity": 1604.043,
+    "poster_path": "/su9WzL7lwUZPhjH6eZByAYFx2US.jpg",
+    "release_date": "2021-10-22",
+    "title": "Vực Sâu Thù Hận",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 327
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/mu8RKavbv7Ml48twHQ6XVk7zw8e.jpg",
+    "genre_ids": [
+    28,
+    80,
+    53
+    ],
+    "id": 796499,
+    "original_language": "en",
+    "original_title": "Army of Thieves",
+    "overview": "Tiền truyện của \"Đội quân người chết\": một phụ nữ bí ẩn tuyển mộ giao dịch viên ngân hàng Dieter giúp đội của cô phá 3 két sắt huyền thoại khắp châu Âu.",
+    "popularity": 1566.278,
+    "poster_path": "/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg",
+    "release_date": "2021-10-27",
+    "title": "Đội Quân Đạo Tặc",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 741
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg",
+    "genre_ids": [
+    35,
+    28,
+    12,
+    878
+    ],
+    "id": 550988,
+    "original_language": "en",
+    "original_title": "Free Guy",
+    "overview": "Guy - Nhân viên giao dịch ngân hàng, phát hiện anh ấy thực chất là người chơi nền trong trò chơi điện tử thế giới mở. Guy quyết định trở thành người anh hùng và viết lại câu chuyện của chính mình. Giờ đây, trong một thế giới không còn giới hạn, anh ấy quyết định trở thành người giải cứu thế giới, theo cách của chính mình.",
+    "popularity": 1680.25,
+    "poster_path": "/kvTTnQ8C4RF0bZUAoYPD913NQx4.jpg",
+    "release_date": "2021-08-11",
+    "title": "Giải Cứu Guy",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 3746
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/HVcza6tJtWFrLriuh3Ano4Vt46.jpg",
+    "genre_ids": [
+    28,
+    12,
+    14
+    ],
+    "id": 1930,
+    "original_language": "en",
+    "original_title": "The Amazing Spider-Man",
+    "overview": "Amazing Spider-Man hay Siêu Nhện Tái Xuất có khá nhiều khác biệt so với các phần trước tập trung ở sự khác biệt ở tính cách của các nhân vật, Peter không còn là cậu bé nhút nhát mà khá nghịch ngợm, bên cạnh đó đạo diễn Marc Webb cũng mạnh dạn đưa ra thêm nhiều thay đổi về cốt truyện để Amazing Spider-Man thực sự mới lạ so với các phiên bản cũ.\r Cha mẹ Peter biến mất bí ấn và để cậu cho cô chú nuôi nấng. Sự tò mò về thân phận của bản thân lẫn những điều chưa biết về cha mẹ luôn thôi thúc cậu.  Peter tìm thấy tập tài liệu mà cha để lại. Từ đây, những manh mối dẫn cậu tới tập đoàn Oscorp và người cộng sự của ông. Một tai nạn tại Oscorp khiến Peter có những siêu năng lực của loài nhện, Người nhện xuất hiện bí ẩn trong lòng New York.",
+    "popularity": 1203.652,
+    "poster_path": "/jIfkQNARYyERqRAq1p1c8xgePp4.jpg",
+    "release_date": "2012-06-23",
+    "title": "Người Nhện Siêu Đẳng",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 13591
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/bwPXMrDyPDaSiQaOmUo10GLn0rf.jpg",
+    "genre_ids": [
+    27
+    ],
+    "id": 775943,
+    "original_language": "es",
+    "original_title": "Llanto Maldito",
+    "overview": "",
+    "popularity": 1369.744,
+    "poster_path": "/iwlmZKndp7fIfHbxVzQtk9zby3A.jpg",
+    "release_date": "2021-07-29",
+    "title": "Llanto Maldito",
+    "video": false,
+    "vote_average": 4.4,
+    "vote_count": 10
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+    "genre_ids": [
+    878,
+    28
+    ],
+    "id": 335983,
+    "original_language": "en",
+    "original_title": "Venom",
+    "overview": "Quái Vật Venom là một kẻ thù nguy hiểm và nặng ký của Người nhện trong loạt series của Marvel. Chàng phóng viên Eddie Brock (do Tom Hardy thủ vai) bí mật theo dõi âm mưu xấu xa của một tổ chức và đã không may mắn khi nhiễm phải loại cộng sinh trùng ngoài hành tinh (Symbiote) và từ đó đã không còn làm chủ bản thân về thể chất lẫn tinh thần. Điều này đã dần biến anh thành quái vật đen tối và nguy hiểm nhất chống lại người Nhện - Venom ...",
+    "popularity": 1170.731,
+    "poster_path": "/bURIWlkMbzT8RdpemzCmQECo2Uh.jpg",
+    "release_date": "2018-09-28",
+    "title": "Quái Vật Venom",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 12251
+    },
+    {
+    "adult": false,
+    "backdrop_path": "/t9i5kSC6mYPRtc9hDlFeziLESa8.jpg",
+    "genre_ids": [
+    16,
+    35,
+    10751,
+    14
+    ],
+    "id": 876716,
+    "original_language": "en",
+    "original_title": "Ciao Alberto",
+    "overview": "",
+    "popularity": 1326.072,
+    "poster_path": "/buq1OIx6nGsknTy2cHxWTqKXVB.jpg",
+    "release_date": "2021-11-12",
+    "title": "Ciao Alberto",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 158
+    }
+    ],
+    "total_pages": 500,
+    "total_results": 10000
+    }
+    
