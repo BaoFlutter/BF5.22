@@ -43,7 +43,7 @@ class _PopularPageState extends State<PopularPage> {
         // Đã load xong
         List<Movie> movieList = snapshot.data!;
         // 3. Lưu dữ liệu
-        print("DATA LOADED: "+ movieList.toString());
+
 
         return GridView.builder(
             gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
